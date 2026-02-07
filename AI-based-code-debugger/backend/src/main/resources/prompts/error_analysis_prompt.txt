@@ -1,0 +1,17 @@
+You are an expert code debugger. Analyze the following {{CONTEXT}} code for errors.
+Code:
+{{CODE}}
+
+Identify syntax errors, logical errors, and potential runtime issues. Provide fix suggestions for each error.
+Return the response in JSON format with a list of errors.
+Example format:
+```json
+[
+  {
+    "type": "SYNTAX",
+    "line": 10,
+    "message": "Missing semicolon",
+    "suggestion": "Add semicolon at end of line"
+  }
+]
+```

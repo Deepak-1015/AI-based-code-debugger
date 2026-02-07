@@ -1,0 +1,5 @@
+Suggest optimizations for the following code to improve performance and readability.
+Code:
+{{CODE}}
+
+Provide the optimized code snippet and a list of improvements.

@@ -1,0 +1,6 @@
+Analyze the Time and Space complexity of the following code.
+Code:
+{{CODE}}
+
+Provide the Big O notation and a brief explanation.
+Return the response in text format or JSON.
